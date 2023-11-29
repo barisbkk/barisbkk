@@ -27,7 +27,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **HTML, CSS, Javascript, React.js**
 
-- 💬 Ask me about **HTML, CSS, Javascript, React.js**
+- 💬 Ask me about **Front-end Web Developing**
 
 - 📫 Feel free to reach me out **barisbkk12@gmail.com**
 <!--Intro end-->
