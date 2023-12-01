@@ -20,7 +20,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **HTML, CSS, Javascript, React.js**
+- 🔭 I’m currently working on **HTML, CSS, Javascript, React.js and their libraries and frameworks**
 
 - ❤️ Love to write code and learning new features about coding
 
