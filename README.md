@@ -84,7 +84,7 @@
 <!--profile visit count-->
 <div align="center">
   
-![](https://komarev.com/ghpvc/?username=barisbkk&color=yellow)
+![](https://komarev.com/ghpvc/?username=barisbkk&color=yellow&style=flat-square)
   
 </div>
 
