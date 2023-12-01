@@ -22,6 +22,8 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **HTML, CSS, Javascript, React.js**
 
+- 🔭 Love to write code and learning new features about coding
+
 - 💬 Ask me about **Front-end Web Developing**
 
 - 📫 Feel free to reach me out **barisbkk12@gmail.com**
