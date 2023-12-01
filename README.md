@@ -22,7 +22,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **HTML, CSS, Javascript, React.js**
 
-- 🔭 Love to write code and learning new features about coding
+- ❤️ Love to write code and learning new features about coding
 
 - 💬 Ask me about **Front-end Web Developing**
 
