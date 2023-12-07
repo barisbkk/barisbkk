@@ -82,12 +82,7 @@
 
 
 <!--profile visit count-->
-<p align="center"> 
-  <h2 align="center">Visitor Count</h2>
-  <div align="center">
-    <img src="https://profile-counter.glitch.me/barisbkk/count.svg"/>
-  </div> 
-</p>
+
 
 
 <!--horizontal divider(gradiant)-->
