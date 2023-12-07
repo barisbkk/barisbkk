@@ -83,9 +83,9 @@
 
 <!--profile visit count-->
 <p align="center"> 
-  <div align="center">Visitor count</div>
+  <h2 align="center">Visitor Count</h2>
   <div align="center">
-    <img src="https://profile-counter.glitch.me/Niefee/count.svg"/>
+    <img src="https://profile-counter.glitch.me/barisbkk/count.svg"/>
   </div> 
 </p>
 
