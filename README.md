@@ -29,8 +29,6 @@
 
 
 
-<!--- stats & Trophy (start) -->
-<p align="center">
   <!--- stats (start) -->
 <table align="center">
 <tr border="none">
@@ -49,8 +47,7 @@
 </tr>
 </table>
 <!--- stats (end) -->
-</p>        
-<!--- stats (end) -->
+    
 
 
 <!--h1 without bottom border-->
