@@ -20,7 +20,7 @@
 
 
 <!--Intro start-->
-- 🔭 I am a passionate frontend developer**
+- 🔭 I am a passionate frontend developer
 
 - 🔭 I’m currently working on **HTML, CSS, Javascript, React.js and their libraries and frameworks**
   
