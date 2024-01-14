@@ -24,7 +24,7 @@
 
 - 🔭 I’m currently working on **HTML, CSS, Javascript, React.js and their libraries and frameworks**
   
-- ❤️ Love to write code and learning new features about web developing
+- ❤️ Love tos write code and learning new features about web developing
 
 - 📫 Feel free to reach me out: **barisbkk12@gmail.com**
 <!--Intro end-->
