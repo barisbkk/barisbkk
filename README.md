@@ -23,8 +23,6 @@
 - 🔭 I am a passionate frontend developer
 
 - 💡 I’m currently working on **HTML, CSS, Javascript, React.js and their libraries and frameworks** and constantly improving myself in web developing area, languages, tools etc. For now i am especially working on **React.js**.
-  
-- ❤ Love to write code and learning new features about web developing and other areas of IT sector.
 
 - 📫 Feel free to reach me out: **barisbkk12@gmail.com**
 <!--Intro end-->
