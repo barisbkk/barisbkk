@@ -16,8 +16,8 @@
 </div>
 
 </br>
-<hr>
 
+<hr>
 <!--Intro start-->
 🙋🏻‍♂️About Me
 - I am a passionate frontend developer.
@@ -32,7 +32,6 @@
 - Linkedln: www.linkedin.com/in/baris-kaan-bek
 <!--Intro end-->
 <hr>
-
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies and Tools That I Know</h2></summary>
@@ -45,15 +44,16 @@
   </a>
 </p>
 
-</br>
 <hr>
+</br>
+
 
   <!--- stats (start) -->
-  <div> 
+  <div align="center"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=barisbkk&theme=chartreuse-dark&show_icons=true&count_private=true" />
     <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=barisbkk&theme=chartreuse-dark&hide_border=false" /> 
   </div>
-  <div> 
+  <div align="center"> 
     <img  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=barisbkk&theme=chartreuse-dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   </div>
 
