@@ -14,8 +14,10 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
+
 </br>
 </br>
+
 <!--Intro start-->
 🙋🏻‍♂️About Me
 - 🔭 I am a passionate frontend developer.
@@ -28,8 +30,6 @@
 📧Contact
 - 📫 Feel free to reach me out: **barisbkk12@gmail.com**
 <!--Intro end-->
-
-
 
   <!--- stats (start) -->
 <table align="center">
@@ -49,8 +49,6 @@
 </tr>
 </table>
 <!--- stats (end) -->
-    
-
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -78,11 +76,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/baris-kaan-bek/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 </p>
-
-
-<!--profile visit count-->
-
-
 
 <!--horizontal divider(gradiant)-->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
