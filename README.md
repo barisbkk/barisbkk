@@ -34,6 +34,18 @@
 
 </br>
 
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies and Tools That I Know</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,materialui,js,react,redux,ts,nodejs,vite,git,github,vscode,vercel,figma&perline=14" />
+  </a>
+</p>
+
   <!--- stats (start) -->
 <table align="center">
 <tr border="none">
@@ -53,18 +65,7 @@
 </table>
 <!--- stats (end) -->
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies and Tools That I Know</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,materialui,js,react,redux,ts,nodejs,vite,git,github,vscode,vercel,figma&perline=14" />
-  </a>
-</p>
+
 
 <!--horizontal divider(gradiant)-->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
