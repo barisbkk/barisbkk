@@ -16,8 +16,8 @@
 </div>
 
 </br>
-
 <hr>
+
 <!--Intro start-->
 🙋🏻‍♂️About Me
 - I am a passionate frontend developer.
@@ -31,6 +31,7 @@
 - Mail: **barisbkk12@gmail.com**
 - Linkedln: www.linkedin.com/in/baris-kaan-bek
 <!--Intro end-->
+
 <hr>
 <div id="user-content-toc">
   <ul align="center">
@@ -44,8 +45,9 @@
   </a>
 </p>
 
-<hr>
+
 </br>
+<hr>
 
 
   <!--- stats (start) -->
