@@ -31,6 +31,8 @@
 - 📫 Feel free to reach me out: **barisbkk12@gmail.com**
 <!--Intro end-->
 
+</br>
+
   <!--- stats (start) -->
 <table align="center">
 <tr border="none">
