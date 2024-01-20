@@ -33,6 +33,7 @@
 <!--Intro end-->
 
 </br>
+<hr>
 
 <div id="user-content-toc">
   <ul align="center">
@@ -45,6 +46,8 @@
     <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,materialui,js,react,redux,ts,nodejs,vite,git,github,vscode,vercel,figma&perline=14" />
   </a>
 </p>
+
+</br>
 
   <!--- stats (start) -->
 <table align="center">
