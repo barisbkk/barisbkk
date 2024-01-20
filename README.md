@@ -28,8 +28,8 @@
 - My goal is doing my job at its perfect while traveling and learning as much as possible about our world, other cultures and live a meaningful life.
 
 📫Contact
-- 📧 **barisbkk12@gmail.com**
-- www.linkedin.com/in/baris-kaan-bek
+- Mail: **barisbkk12@gmail.com**
+- Linkedln: www.linkedin.com/in/baris-kaan-bek
 <!--Intro end-->
 
 </br>
