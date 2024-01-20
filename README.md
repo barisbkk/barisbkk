@@ -16,7 +16,6 @@
 </div>
 
 </br>
-</br>
 <hr>
 
 <!--Intro start-->
@@ -33,7 +32,7 @@
 - Linkedln: www.linkedin.com/in/baris-kaan-bek
 <!--Intro end-->
 <hr>
-</br>
+
 
 
 <div id="user-content-toc">
