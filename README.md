@@ -17,6 +17,7 @@
 
 </br>
 </br>
+<hr>
 
 <!--Intro start-->
 🙋🏻‍♂️About Me
@@ -31,9 +32,9 @@
 - Mail: **barisbkk12@gmail.com**
 - Linkedln: www.linkedin.com/in/baris-kaan-bek
 <!--Intro end-->
-
-</br>
 <hr>
+</br>
+
 
 <div id="user-content-toc">
   <ul align="center">
