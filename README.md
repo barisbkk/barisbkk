@@ -27,8 +27,9 @@
 - I love spending time with my friends, travelling, video games, watching movies, listening music (metal,rock and some other genres), going gym etc.
 - My goal is doing my job at its perfect while traveling and learning as much as possible about our world, other cultures and live a meaningful life.
 
-📧Contact
-- 📫 Feel free to reach me out: **barisbkk12@gmail.com**
+📫Contact
+- 📧 **barisbkk12@gmail.com**
+- www.linkedin.com/in/baris-kaan-bek
 <!--Intro end-->
 
 </br>
