@@ -20,10 +20,15 @@
 
 
 <!--Intro start-->
+🙋🏻‍♂️About Me
 - 🔭 I am a passionate frontend developer.
-
 - 💡 I’m currently working on **HTML, CSS, Javascript, React.js and their libraries and frameworks** and constantly improving myself in web developing area, languages, tools etc. For now i am especially working on **React.js**.
 
+⛩️My Interests and Goals
+- I love spending time with my friends, travelling, video games, watching movies, listening music (metal,rock and some other genres), going gym etc.
+- My goal is to travel and learn as much as possible about our world, other cultures and live a meaningful life.
+
+📧Contact
 - 📫 Feel free to reach me out: **barisbkk12@gmail.com**
 <!--Intro end-->
 
