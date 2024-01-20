@@ -45,9 +45,7 @@
   </a>
 </p>
 
-</br>
 <hr>
-
 
   <!--- stats (start) -->
   <div align="center"> 
