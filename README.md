@@ -51,13 +51,9 @@
   <!--- stats (start) -->
   
   
-  <img align="left"  src="https://github-readme-stats.vercel.app/api?username=barisbkk&theme=chartreuse-dark&show_icons=true&count_private=true" />
+  <img align="left" width="495" src="https://github-readme-stats.vercel.app/api?username=barisbkk&theme=chartreuse-dark&show_icons=true&count_private=true" />
   <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=barisbkk&theme=chartreuse-dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   <img align="left" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=barisbkk&theme=chartreuse-dark&hide_border=false" /> 
- 
- 
-   
-  
 
 
 <!--- stats (end) -->
