@@ -34,7 +34,7 @@
 <hr>
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies and Tools That I Know</h2></summary>
+    <summary><h2 style="display: inline-block">Technologies and Tools I Know</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
