@@ -24,7 +24,7 @@
 
 ⛩️My Interests and Goals
 - I love spending time with my friends, travelling, video games, watching movies, listening music (metal,rock and some other genres), going gym etc.
-- My goal is doing my job at its perfect while travelling and learning as much as possible about our world, other cultures and live a meaningful life.
+- My goal is doing my job at its perfect while travelling and learning as much as possible about our world, other cultures and living a meaningful life.
 
 📫Contact
 - Mail: **barisbkk12@gmail.com**
