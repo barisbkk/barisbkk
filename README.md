@@ -9,7 +9,7 @@
 </div>
 
 <!--- snake -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif" alt="Resim 1"/></p>
 
 </br>
 <hr>
